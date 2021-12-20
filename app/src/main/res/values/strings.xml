@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WonderTinder</string>
+    <string name="swipe_help">Swipe the card to like or dislike the character</string>
+    <string name="dislike">DISLIKE</string>
+    <string name="like">LIKE</string>
+    <string name="my_heroes">My Heroes</string>
+</resources>
